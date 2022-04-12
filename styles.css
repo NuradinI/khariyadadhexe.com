@@ -1,0 +1,361 @@
+@import url('https://fonts.googleapis.com/css2?family=Rouge+Script&display=swap');
+#site {
+    background-color: #e0ebe8;
+}
+#section-one {
+    text-align: center; 
+}
+.intro {
+    color: #45b29a;
+    
+}
+#h1 {
+    font-family: 'Rouge Script', cursive;
+    font-size: 3.5em;
+}
+#p {
+    font-size: 1.3em;
+}
+#landscape {
+    width: 100%;
+    padding-top: 10px;
+    height: 300px;
+}
+#bayyinah {
+    color: #45b29a;
+}
+#button-list {
+    display: flex;
+    list-style: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 0;
+}
+#projects {
+    padding:0 20px;
+}
+#projects-link {
+    text-decoration: none;
+    color: #45b29a;
+}
+#about-link {
+    text-decoration: none;
+    color: #45b29a;
+}
+#graduation {
+    width: 50%;
+    padding-top: 30px;
+}
+#section-two {
+    text-align: center;
+}
+#hi {
+    font-size: 2em;
+    color: #45b29a;
+    font-family: 'Darker Grotesque', sans-serif;
+}
+#description {
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 1.2em;
+    line-height: 1.7;
+    color: #545454;
+}
+#a-tag {
+    text-decoration: none;
+    color: #45b29a;
+}
+@import url('https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@300&display=swap');
+#code {
+    height: 150px;
+    width: 170px;
+}
+#vue {
+    height: 100px;
+}
+#section-three {
+    text-align: center;
+    margin-top: 10vh;
+}
+#what {
+    font-size: 2em;
+    color: #1e836c;
+    font-family: 'Darker Grotesque', sans-serif; 
+}
+#front {
+    font-size: 2em;
+    color: #1e836c;
+    font-family: 'Darker Grotesque', sans-serif;
+}
+#back {
+    font-size: 2em;
+    color: #1e836c;
+    font-family: 'Darker Grotesque', sans-serif;
+}
+#backend {
+    height: 150px;
+    width: 150px;
+}
+#python {
+    height: 100px;
+}
+#backend-p {
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 1.2em;
+    line-height: 1.7;
+    color: #545454;
+}
+#vue-p{
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 1.2em;
+    line-height: 1.7;
+    color: #545454;
+}
+#section-four {
+    text-align: center;
+}
+#opps {
+    font-size: 2em;
+    color: #1e836c;
+}
+#currently {
+    color: #45b29a;
+    font-family: 'Darker Grotesque', sans-serif;
+    font-size: 1.2em;
+}
+#outro {
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 1.2em;
+    line-height: 1.7;
+    color: #545454;
+}
+#btn {
+    padding: .75em 2em .75em 2em;
+    color: #1b7f69;
+    margin: 1.4em 0 0;
+    background: #45b29a;
+    text-decoration: none;
+    border: 0;
+    font-size: 1.1em;
+    margin-bottom: 2vh;
+}
+#footer {
+    text-align: center;
+  padding: 19px;
+  background: #c5ded7;
+  color: white;
+}
+#p-tag {
+    color: #45b29a;
+    font-weight: 400;
+}
+@media only screen and (min-width:618px) {
+    #tyler {
+        width: 60%;
+    }
+}
+@media only screen and (min-width:300px) {
+    #tyler {
+        width: 200px;
+    }
+    #nur {
+        width: 200px;
+    }
+    #ball {
+        width: 200px;
+    }
+    #dj {
+        width: 60%;
+    }
+}
+@media only screen and (min-width:460px) {
+    #graduation {
+        width: 40%;
+    }
+}
+@media only screen and (min-width:560px) {
+    #graduation {
+        width: 30%;
+    }
+}
+@media only screen and (min-width:730px) {
+    #graduation {
+        width: 20%;
+    }
+    #landscape{
+        width: 80%;
+    }
+   
+    
+    #uzi{
+        width: 200px;
+    }
+    #nur{
+        width: 40%;
+    }
+    #tyler{
+        width: 300px;
+    }
+    #dj{
+        width: 40%;
+    }
+    #ball{
+        width: 20%;
+    }
+}
+@media only screen and (min-width:1000px) {
+    #graduation {
+        width: 15%;
+    }
+    #landscape{
+        width: 40%;
+    }
+    
+    
+    
+}
+#skills{
+    font-size: 2em;
+    color: #1e836c;
+    font-family: 'Darker Grotesque', sans-serif;
+    text-align: center;
+}
+#third-ayah{
+    font-size: 2em;
+    color: #1e836c;
+    font-family: 'Darker Grotesque', sans-serif;
+    text-align: center;
+}
+#ayah-three{
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 1.2em;
+    line-height: 1.7;
+    color: #545454;
+    text-align: center;
+}
+#fourth-ayah{
+    font-size: 2em;
+    color: #1e836c;
+    font-family: 'Darker Grotesque', sans-serif;
+    text-align: center;
+}
+#ayah-four{
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 1.2em;
+    line-height: 1.7;
+    color: #545454;
+    text-align: center;
+}
+#fifth-ayah{
+    font-size: 2em;
+    color: #1e836c;
+    font-family: 'Darker Grotesque', sans-serif;
+    text-align: center;
+}
+#ayah-five{
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 1.2em;
+    line-height: 1.7;
+    color: #545454;
+    text-align: center;
+}
+#sixth-ayah{
+    font-size: 2em;
+    color: #1e836c;
+    font-family: 'Darker Grotesque', sans-serif;
+    text-align: center;
+}
+#ayah-six{
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 1.2em;
+    line-height: 1.7;
+    color: #545454;
+    text-align: center; 
+}
+#carti{
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 1.2em;
+    line-height: 1.7;
+    color: #545454;
+    text-align: center;  
+}
+#uzi {
+    height: 150px;
+    
+}
+#section-five{
+    text-align: center;
+}
+#pop{
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 1.2em;
+    line-height: 1.7;
+    color: #545454;
+    text-align: center;
+}
+#poppy{
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 1.2em;
+    line-height: 1.7;
+    color: #545454;
+    text-align: center;
+}
+
+#nur {
+    height: 300px;
+    width: 270px; 
+}
+#mk {
+    padding-right: 10px;
+    padding-left: 10px;
+    font-size: 1.2em;
+    line-height: 1.7;
+    color: #545454;
+    text-align: center;
+}
+#section-six{
+    text-align: center;
+}
+#section-seven{
+    text-align: center;
+}
+#section-eight{
+    text-align: center;
+}
+#dj{
+    height: 300px;
+    width: 270px;  
+}
+#ball{
+    height: 300px;
+    width: 260px;  
+}
+#news {
+    text-decoration: none;
+    color: #45b29a;
+    padding-left: 6px;
+}
+.tag {
+    text-decoration: none;
+    color: #45b29a;
+    padding-left: 60px;
+}
+@media only screen and (max-width:1148px) {
+    .tag {
+        
+    }
+    
+    
+    
+    
+}

@@ -1,0 +1,24 @@
+.video-container{
+  position: relative;
+  padding-bottom: calc(var(--aspect-ratio, .5625) * 100%);
+  height: 0;
+  width: 100%;
+}
+
+.video-container iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2em;
+    color: #45b29a;
+    font-family: 'Darker Grotesque', sans-serif;
+}
+#body {
+  background-color: #e0ebe8;
+}
